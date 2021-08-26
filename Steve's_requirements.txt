@@ -1,0 +1,15 @@
+
+#Module 2 - VBA
+
+## Analyzing Stock data of Green energy corps
+
+### Analyzing Data for Steve
+2.2.1
+1. He wants to find the total daily volume and yearly return for each stock?
+ Daily volume = total number of shares traded throughout the day, measures how actively a stock is traded.
+
+2. Yearly return = the percentage difference in the price from the beginning of the year to the end of the year.
+
+2.2.3
+Steve's parents want to know how actively DQ was traded in 2018. They believe that if a stock is traded often, then the price will accurately reflect the value of the stock. If we sum up all of the daily volume for DQ, we'll have the yearly volume and a rough idea of how often it gets traded.
+
