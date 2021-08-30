@@ -42,4 +42,16 @@ Output the data for the current ticker.
 
 2.4.2The table is a lot easier to read now, but it's still difficult to determine at a glance which stocks performed well and which ones did not. Let's format our data so that Steve can determine stock performance at a glance.
 
+2.5.1 Steve needs a way to run these analyses. He could install the Developer tab, but a button would be easier and more user-friendly. Let's make a button for Steve. 
+
+2.5.2 Steve will probably want to run this analysis for each year, so let's update our code to run for any year, not just 2018.
+
+2.5.3 In the future, Steve may want to perform his analysis on larger datasets, and he wants to know how fast his VBA code will compile the results. To help Steve, we need to add a script that will calculate how long the code takes to execute and output the elapsed time in a message box.
+
+2.5.3 In the future, Steve may want to perform his analysis on larger datasets, and he wants to know how fast his VBA code will compile the results. To help Steve, we need to add a script that will calculate how long the code takes to execute and output the elapsed time in a message box.
+
+Module 2 Challenge : Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
+
+
+
 
